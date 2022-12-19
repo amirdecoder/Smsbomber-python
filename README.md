@@ -12,6 +12,7 @@ Sms bomber For my family and my followers
  Prerequisites and libraries are installed automatically
  
  Please pay attention to capitalization of words
+ And read the contents of the page carefully
   </p>
  </pre>
  
