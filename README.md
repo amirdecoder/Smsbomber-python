@@ -8,12 +8,12 @@ Sms bomber For my family and my followers
  ___
   
  <pre>
-  <p>
- Prerequisites and libraries are installed automatically
+ <p>
+Prerequisites and libraries are installed automatically
  
- Please pay attention to capitalization of words
- And read the contents of the page carefully
-  </p>
+Please pay attention to capitalization of words
+And read the contents of the page carefully
+ </p>
  </pre>
  
  ### :cd: Installation:
@@ -46,12 +46,12 @@ ___
 
 <pre>
  <p>
- Amirhossein arabahmadi
+<strong>Amirhossein arabahmadi</strong>
  
  Im programmer
 In terms of technology limitations are meaningless to me
 Programming for me is like a restaurant where I cook myself and I enjoy the taste of food
-And I use my hands to help people
+I use my hands to help people
 And with all my being I want to be useful to the world
 
 ❤️ I love you all, Amirdecoder
