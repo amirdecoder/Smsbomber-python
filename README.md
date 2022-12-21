@@ -11,7 +11,7 @@ Sms bomber For my family and my followers
 <p>Prerequisites and libraries are installed automatically
 
 Please pay attention to capitalization of words
-And read the contents of the page carefully
+And <b>read the contents of the page carefully</b>
 </p>
 </pre>
  
