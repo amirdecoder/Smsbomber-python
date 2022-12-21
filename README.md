@@ -7,10 +7,9 @@ Sms bomber For my family and my followers
 ### Amirhossein arabahmadi
  ___
   
- <pre>
- <p>
-Prerequisites and libraries are installed automatically
- 
+<pre>
+<p>Prerequisites and libraries are installed automatically
+
 Please pay attention to capitalization of words
 And read the contents of the page carefully
  </p>
@@ -45,8 +44,7 @@ And read the contents of the page carefully
 ___
 
 <pre>
- <p>
-<strong>Amirhossein arabahmadi</strong>
+<p><strong>Amirhossein arabahmadi</strong>
  
  Im programmer
 In terms of technology limitations are meaningless to me
