@@ -1,10 +1,10 @@
-# Smsbomber-python :
+# Smsbomber-python
 Sms bomber For my family and my followers
 <br>
 <br>
 
 
-### Amirhossein arabahmadi
+### :person_curly_hair: Amirhossein arabahmadi
  ___
   
 <pre>
@@ -37,7 +37,7 @@ And <b>read the contents of the page carefully</b>
   * `cd Smsbomber-python/`
   * `python3 Smsbomber.py`
 
-### Short explanation :
+### :information_source: Short explanation :
 ___
 
 <pre>
