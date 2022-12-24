@@ -1,4 +1,4 @@
-# Smsbomber-python
+# Smsbomber-python :
 Sms bomber For my family and my followers
 <br>
 <br>
@@ -15,21 +15,19 @@ And <b>read the contents of the page carefully</b>
 </p>
 </pre>
  
- ### :cd: Installation:
+ ### :cd: Installation :
  ___
 * Windows:
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
   * Download Smsbomber-python
   * Open cmd or powershell in Impulse directory
-  * Run this command: `pip install -r requirements.txt`
 
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
   * `git clone https://github.com/amirdecoder/Smsbomber-python`
   * `cd Smsbomber-python/`
-  * `pip3 install -r requirements.txt`
   * `python3 Smsbomber.py`
 
 * Termux:
@@ -37,10 +35,9 @@ And <b>read the contents of the page carefully</b>
   * `pkg install python3 python3-pip git -y`
   * `git clone https://github.com/amirdecoder/Smsbomber-python`
   * `cd Smsbomber-python/`
-  * `pip3 install -r requirements.txt`
   * `python3 Smsbomber.py`
 
-### Short explanation
+### Short explanation :
 ___
 
 <pre>
