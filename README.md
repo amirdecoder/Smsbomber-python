@@ -56,4 +56,35 @@ And with all my being I want to be useful to the world
 </a>
 </pre>
 
+ ### 🗃️: Social Networks :
+ ___
+ 
+ <details><summary>CLICK ME</summary>
+<p>
 
+#### Github :
+
+```ruby
+   https://Github.com/amirdecoder
+```
+ 
+ #### Instagram :
+
+```ruby
+   https://instagram.com/amirdecoder
+```
+ 
+ #### Discord :
+
+```ruby
+   amir0026a#6625
+```
+
+ #### Telegram :
+
+```ruby
+   https://t.me/amirdecoder
+``` 
+ 
+</p>
+</details>
