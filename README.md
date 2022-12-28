@@ -52,7 +52,7 @@ And with all my being I want to be useful to the world
 ❤️ I love you all, Amirdecoder
 </p>
 <a href="https://github.com/amirdecoder">
-<img align="center" width="240" src="https://s27.picofile.com/file/8457301368/IMG_20221214_031628_357.jpg" alt="Amirhossein arabahmadi" />
+<img title="Amirhossein arabahamdi" align="center" width="240" src="https://s27.picofile.com/file/8457301368/IMG_20221214_031628_357.jpg" alt="Amirhossein arabahmadi" />
 </a>
 </pre>
 
