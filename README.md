@@ -85,6 +85,28 @@ And with all my being I want to be useful to the world
 ```ruby
    https://t.me/amirdecoder
 ``` 
+ </details>
+</p>
+
+<br>
+
+ ### :feelsgood: : Donate :
+ ___
+ 
+ <details><summary>CLICK ME</summary>
+<p>
+
+#### USDT :
+
+```ruby
+   TBF2i8ENeR7491Zd8ZkcyLzEcSzG5w73Mz
+```
+ 
+ #### BTC :
+
+```ruby
+   1MmBWgLaGyiXfVwPURKULMeaDPNagdZ8nc
+```
  
 </p>
 </details>
