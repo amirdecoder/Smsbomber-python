@@ -96,17 +96,9 @@ And with all my being I want to be useful to the world
  <details><summary>CLICK ME</summary>
 <p>
 
-#### USDT :
+#### Wallet :
 
-```ruby
-   TBF2i8ENeR7491Zd8ZkcyLzEcSzG5w73Mz
-```
- 
- #### BTC :
+[Show address](https://github.com/amirdecoder#feelsgood-donate)
 
-```ruby
-   1MmBWgLaGyiXfVwPURKULMeaDPNagdZ8nc
-```
- 
 </p>
 </details>
